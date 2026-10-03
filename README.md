@@ -11,4 +11,4 @@
 - Timeout
 - Абстракция `Storage`
 
-**Статус:** Work in Progress 🚧
+**Статус:** В разработке
