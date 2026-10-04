@@ -1,6 +1,6 @@
-# ATA PIO Driver
+# ATA Driver
 
-Простой ATA PIO-драйвер на Rust для экспериментального OS kernel.
+Простой ATA драйвер на Rust для экспериментального OS kernel.
 
 ### Сейчас поддерживается
 
